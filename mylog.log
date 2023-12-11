@@ -1,0 +1,5 @@
+00:00:00.008 [ThreadPoolTaskScheduler-1] INFO  c.dayone.scheduler.ScraperScheduler - scraping scheduler is started
+00:00:00.023 [ThreadPoolTaskScheduler-1] INFO  c.dayone.scheduler.ScraperScheduler - scraping scheduler is started -> 3M Company
+00:38:35.533 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+00:38:35.535 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+00:38:35.539 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
